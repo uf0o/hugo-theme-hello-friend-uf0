@@ -145,7 +145,7 @@ code {
   padding: 1px 6px;
   margin: 0 2px;
   border-radius: 5px;
-  font-size: .95rem;
+  font-size: .65rem;
 
   .dark-theme & {
     background: $dark-background-secondary;
@@ -156,7 +156,7 @@ pre {
   background: #212020;
   padding: 20px;
   border-radius: 8px;
-  font-size: .95rem;
+  font-size: .70rem;
   overflow: auto;
 
   @media #{$media-size-phone} {
